@@ -11,6 +11,7 @@ import java.util.HashMap;
  *
  * @author dell
  */
+ //the voice calling the police
 public class AutoDialar {
 
     VoiceSynthesizer voice;
